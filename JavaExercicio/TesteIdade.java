@@ -1,4 +1,4 @@
-package primeroPrograma;
+package JavaExercicio;
 
 public class TesteIdade {
     

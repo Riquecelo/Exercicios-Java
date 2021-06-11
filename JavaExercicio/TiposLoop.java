@@ -1,4 +1,4 @@
-package primeroPrograma;
+package JavaExercicio;
 
 public class TiposLoop {
     public static void main(String[] args) {
