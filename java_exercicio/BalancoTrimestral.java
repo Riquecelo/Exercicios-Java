@@ -1,4 +1,4 @@
-package JavaExercicio;
+package java_exercicio;
 
 public class BalancoTrimestral {
     

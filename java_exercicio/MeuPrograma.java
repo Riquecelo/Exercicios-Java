@@ -1,4 +1,4 @@
-package JavaExercicio;
+package java_exercicio;
 
 class MeuPrograma{
     public static void main(String[] args) {
