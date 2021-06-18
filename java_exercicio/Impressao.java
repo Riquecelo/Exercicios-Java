@@ -3,10 +3,10 @@ package java_exercicio;
 class Impressao {
 public static void main(String[] args) {
 
-    int num; //declarando uma variável
+   // int num; //declarando uma variável
 //tipo /nome da variável
 
-    num=0;
+   // num=0;
     int n1=10, n2=20, n3=30;
     int res = n1+n2+n3;
     String nome ="Marcelo";
